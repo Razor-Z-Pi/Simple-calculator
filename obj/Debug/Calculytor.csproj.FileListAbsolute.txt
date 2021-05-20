@@ -1,0 +1,10 @@
+K:\C#\mini\Calculytor\bin\Debug\Calculytor.exe.config
+K:\C#\mini\Calculytor\bin\Debug\Calculytor.exe
+K:\C#\mini\Calculytor\bin\Debug\Calculytor.pdb
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.csprojAssemblyReference.cache
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.Form1.resources
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.Properties.Resources.resources
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.csproj.GenerateResource.cache
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.csproj.CoreCompileInputs.cache
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.exe
+K:\C#\mini\Calculytor\obj\Debug\Calculytor.pdb
